@@ -1,0 +1,3 @@
+22:15 23-10-2024 [GET] /api/v1/configpc {"user-agent":"PostmanRuntime/7.42.0","accept":"*/*","postman-token":"262b0e0e-d782-48e8-82b5-f6f9b03acfb5","host":"localhost:3200","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+22:15 23-10-2024 [GET] /api/v1/configpc {"user-agent":"PostmanRuntime/7.42.0","accept":"*/*","postman-token":"96e4e0e1-8fa7-4002-968c-ec2014a557eb","host":"localhost:3200","accept-encoding":"gzip, deflate, br","connection":"keep-alive"}
+22:16 23-10-2024 [POST] /api/v1/configpc {"content-type":"application/json","user-agent":"PostmanRuntime/7.42.0","accept":"*/*","postman-token":"5ad4dff9-1a35-467f-8f1d-03b0f000ac29","host":"localhost:3200","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"171"}
